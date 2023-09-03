@@ -9,7 +9,7 @@ body {
 #game-container {
     width: 400px;
     height: 400px;
-    background-image: url('path-to-background-image.jpg');
+    background-image: url('/background3rdeye.jpg');
     position: relative;
 }
 

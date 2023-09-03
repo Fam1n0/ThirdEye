@@ -9,7 +9,7 @@ function openThirdEye() {
     // Simulate the "opening" of the third eye and then show the modal
     setTimeout(() => {
         document.body.style.backgroundColor = '#eee';
-        document.getElementById('game-container').style.backgroundImage = 'url("path-to-universe-image.jpg")';
+        document.getElementById('game-container').style.backgroundImage = 'url("https://fam1n0.github.io/ThirdEye/path-to-universe-image.jpg")';
         
         modal.style.display = 'block';  // Show the modal
     }, 1000);

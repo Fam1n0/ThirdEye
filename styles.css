@@ -7,10 +7,11 @@ body {
 }
 
 #game-container {
-    width: 400px;
-    height: 400px;
+
+    background-size: cover;         /* Resize the background image to cover the entire container */
+    background-position: center;    /* Center the background image */
     background-image: url('https://fam1n0.github.io/ThirdEye/background3rdeye.jpg');
-    position: relative;
+    background-repeat: no-repeat; 
 }
 
 #third-eye {
